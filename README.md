@@ -1,4 +1,5 @@
 - 👋 Hi, I’m PADMA
+-     I'm based on wellington
 - 👀 I’m interested in SW Developement
 - 🌱 I’m currently learning how to become developer
 - 💞️ I’m looking to collaborate on databases
